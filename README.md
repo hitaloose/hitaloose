@@ -17,18 +17,6 @@ Olá! Sou o Hitalo Loose, desenvolvedor de software apaixonado por criar soluç�
 - **Adgrowth:** Liderei o desenvolvimento de uma plataforma de análise de campanhas, processando milhões de eventos diários.
 - **Alive:** Contribuí para uma plataforma de live commerce, otimizando integrações e sistemas de baixa latência.
 
-### 📂 Projetos Recentes
-
-- [**Sistema de Alerta de Desastres**](#): Uma plataforma para gerenciamento em tempo real de crises ambientais no Brasil.
-- [**Plataforma de Análise de Campanhas**](#): Solução escalável para análise e visualização de métricas de marketing digital.
-- [**Integração VTEX**](#): Conector robusto para plataformas de e-commerce com suporte a alta escala.
-
-### 🌱 Atualmente
-
-- Trabalhando como Solution Architect na Fuerza Studio.
-- Aprofundando conhecimentos em **DevOps** e **Machine Learning**.
-- Sempre em busca de novos desafios e aprendizados.
-
 ### 📫 Entre em Contato
 
 - **E-mail:** hitaloose@gmail.com
